@@ -14,7 +14,7 @@
 ***
 数据库版本暂不发布开源。
 ***
-如果想要更改gif图像，请把gif转成base64编码，然后复制到book_mmodify.py变量内。自行打包软件。
+如果想要更改gif图像，请把gif转成base64编码，然后复制到book_modify.py变量内。自行打包软件。
 ***
 <img width="600" height="508" alt="image" src="https://github.com/user-attachments/assets/9cc101aa-a6e3-4f96-ab54-f4203db5d55f" />
 <img width="602" height="510" alt="image" src="https://github.com/user-attachments/assets/e1c45cb4-7862-4dc7-9e80-362ace7e82e5" />
